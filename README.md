@@ -20,7 +20,7 @@ this two users. Whenever there is a user enter or exit
 the chatroom, all users in the chatroom will receive a
 notification, and their user list on the left will update
 to the new version. Also there will be sound to remind
-the user they have receive a new message, the sound
+the user they have received a new message, the sound
 for public message and private message is different.
 
 ## Demo Video
