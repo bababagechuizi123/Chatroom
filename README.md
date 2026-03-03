@@ -25,4 +25,4 @@ for public message and private message is different.
 
 ## Demo Video
 
-[Demo Video download](https://github.com/bababagechuizi123/Computer-Graphics-Assignment/blob/main/ConsoleApplication2/Video/demo%20video.mp4)
+[![Watch the video](https://github.com/bababagechuizi123/Computer-Graphics-Assignment/blob/main/ConsoleApplication2/Video/Screenshot%202025-12-21%20203723.png)](https://github.com/bababagechuizi123/Computer-Graphics-Assignment/blob/main/ConsoleApplication2/Video/demo%20video.mp4)
